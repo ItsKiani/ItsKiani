@@ -5,8 +5,10 @@
 - 2021 Goals : Learning Go and contribute more open source projects.
 
 ### Contact with me:
-[<img align="left" alt="kiani | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kiani | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-Ali%20Kianinejad-0072b2?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ali-kianinejad)][linkedin]
+[![Instagram Badge](https://img.shields.io/badge/-kianinejad.ali-262626?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/kianinejad.ali)][linkedin]
+[![Gmail Badge](https://img.shields.io/badge/-codewithkiani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:codewithkiani@gmail.com)](mailto:codewithkiani@gmail.com)
+
 
 <br />
 
