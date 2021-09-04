@@ -6,8 +6,8 @@
 
 ### Contact with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Kianinejad-0072b2?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ali-kianinejad)][linkedin]
-[![Instagram Badge](https://img.shields.io/badge/-kianinejad.ali-262626?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/kianinejad.ali)][linkedin]
-[![Gmail Badge](https://img.shields.io/badge/-codewithkiani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:codewithkiani@gmail.com)](mailto:codewithkiani@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-kianinejad.ali-262626?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/kianinejad.ali)][instagram]
+[![Gmail Badge](https://img.shields.io/badge/-codewithkiani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:codewithkiani@gmail.com)][gmail]
 
 
 <br />
@@ -29,3 +29,4 @@
 
 [linkedin]: https://linkedin.com/in/ali-kianinejad
 [instagram]: https://instagram.com/kianinejad.ali
+[gmail]: mailto:codewithkiani@gmail.com
