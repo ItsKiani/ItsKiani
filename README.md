@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,I'm Ali Kiani </h1>
 
 ## I'm a Backend developer
-- I'm currently working with Laravel framework and Learning Go.
-- I use daily: `.php`, `.go`, `.sql`
+- :telescope: I'm currently working with Laravel framework and Learning Go.
+- :computer: I use daily: `.php`, `.go`, `.sql`
 
 ```php
 <?php
