@@ -1,8 +1,9 @@
-### Hi there, I'm Ali Kiani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,I'm Ali Kiani </h1>
 
 ## I'm a Backend developer
 - I'm currently working with Laravel framework.
-- 2021 Goals : Learning Go and contribute more open source projects.
+- I’m currently learning Learning Go.
+- I use daily: `.php`, `.go`, `.sql`
 
 ```php
 <?php
