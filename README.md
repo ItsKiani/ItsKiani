@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,I'm Ali Kiani </h1>
-<h2 align="center"> I'm a Backend developer</h2>
 
+## I'm a Backend developer
 - I'm currently working with Laravel framework and Learning Go.
 - I use daily: `.php`, `.go`, `.sql`
 
