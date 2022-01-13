@@ -23,7 +23,7 @@ class About extends Me
             SQL::class,
             PostgreSQL::class,
             Redis::class,
-            GraphQL::class,
+            Nginx::class,
             Docker::class,
         ];
     }
