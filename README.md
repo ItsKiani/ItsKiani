@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,I'm Ali Kiani </h1>
+<h1 align="center">Hi  :wave:, I'm Ali Kiani </h1>
 
 ## I'm a Backend developer
 - :telescope: I'm currently working with the Laravel framework and learning Go.
