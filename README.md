@@ -1,6 +1,4 @@
-<h1 align="center">Hi  :wave:, I'm Ali Kiani </h1>
-
-## About Me
+## Hi  :wave:, I'm Ali Kiani
 - :telescope: I'm currently working with the Laravel framework and learning Golang.
 - :computer: I use daily: `.php`, `.go`, `.sql`
 - :seedling: I’m currently learning how to do things elegantly and quickly in Golang.
