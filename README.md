@@ -7,4 +7,4 @@
 
 # Stats
 
-<a href="https://github.com/itskiani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itskiani&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/itskiani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskiani&layout=compact&theme=radical&hide_border=true" /></a>
+| <a href="https://github.com/itskiani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itskiani&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kiani's github stats" /></a> | <a href="https://github.com/itskiani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskiani&layout=compact&theme=buefy&hide_border=true" /></a> |
